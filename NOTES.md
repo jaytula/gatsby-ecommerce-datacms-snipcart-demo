@@ -17,3 +17,7 @@ Snipcart enabled buy button
   - data-item-image
   - data-item-name
   - data-item-url
+
+## Setting Up a Custom Domain
+
+- Follow instructions at Netlify to setup a CNAME
